@@ -8,4 +8,5 @@
 5. Scope
 6. IIFE 
 7. Loops
+8. DOM
 -->
