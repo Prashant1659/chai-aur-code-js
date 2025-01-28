@@ -9,4 +9,5 @@
 6. IIFE 
 7. Loops
 8. DOM
+9. Events
 -->
