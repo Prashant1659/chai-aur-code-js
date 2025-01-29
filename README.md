@@ -10,4 +10,5 @@
 7. Loops
 8. DOM
 9. Events
+10. Promises
 -->
