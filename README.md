@@ -11,4 +11,11 @@
 8. DOM
 9. Events
 10. Promises
+11. OOPS and Classes
 -->
+
+```javascript
+//The following image is of prototype theory.
+console.log("Learning prototype");
+```
+![alt text](/image.png)
