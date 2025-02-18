@@ -1,7 +1,7 @@
 
 //Scopes in node environment and scope in browser js console is different.
 
-//In this case the functoin will execute and we will have an output.
+//In this case the function will execute and we will have an output.
 console.log(addOne(5));
 function addOne(num){
     return num + 1;
